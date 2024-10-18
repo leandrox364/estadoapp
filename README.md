@@ -1,6 +1,6 @@
 ##  Controle do Estado da Aplicação Android.
 
-  <a href="https://github.com/leandrox364/MonitoramentoFB/blob/main/MonitoramentoDB/imagem/logo.png">
+  <a href="https://github.com/leandrox364/estadoapp/blob/main/Estado%20do%20App.jpg">
     <img alt="Monitoramento FB" height="500" src="https://github.com/leandrox364/MonitoramentoFB/blob/main/MonitoramentoDB/imagem/logo.png">
   </a>  
 </p><br>
