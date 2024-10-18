@@ -15,7 +15,7 @@
 
 Use a unit FMX.Platform;
 
-##  Aqui os estados que a aplição pode está:.
+##  Aqui os estados que a aplicação pode está:.
 BecameActive - Seu aplicativo ganhou o foco.
 
 EnteredBackground - O usuário não está mais usando seu aplicativo, mas seu aplicativo ainda está em execução em segundo plano.
