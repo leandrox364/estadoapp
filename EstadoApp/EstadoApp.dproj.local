@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/20 09:48:07.000.546,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/04/20 09:49:21.000.455,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/04/20 09:49:50.000.533,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/05/25 21:30:06.000.093,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/25 12:24:04.000.603,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/25 12:45:58.000.626,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/15 21:09:00.000.983,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/15 21:22:33.000.152,D:\Projetos Video\EstadoApp\UMain.fmx=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/10/15 21:22:33.000.152,D:\Projetos Video\EstadoApp\UMain.pas=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/15 21:22:39.000.660,D:\Projetos Video\EstadoApp\EstadoApp.dproj=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="FQXCQKZPAQMNBQSG" Android="FQXCQKZPAQMNBQSG"/>
+	</ActiveMobileDevice>
+</BorlandProject>
